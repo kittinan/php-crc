@@ -1,8 +1,17 @@
 {
-    "name": "mermshaus/crc",
-    "description": "Calculates CRC checksums for input data.",
+    "name": "notrix/crc",
+    "description": "Calculates CRC checksums for input data",
     "keywords": [
-        "crc"
+        "crc",
+	"crc1",
+	"crc16",
+	"crc16qt",
+	"crc16dnp",
+	"crc16usb",
+	"xmodem",
+	"zmodem",
+	"modbus",
+	"ccitt"
     ],
     "license": "MIT",
     "authors": [
