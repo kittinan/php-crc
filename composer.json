@@ -1,5 +1,5 @@
 {
-    "name": "notrix/crc",
+    "name": "kittinan/php-crc",
     "description": "Calculates CRC checksums for input data",
     "keywords": [
         "crc",
